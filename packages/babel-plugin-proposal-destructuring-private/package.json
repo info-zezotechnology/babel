@@ -1,6 +1,6 @@
 {
   "name": "@babel/plugin-proposal-destructuring-private",
-  "version": "8.0.0-rc.4",
+  "version": "8.0.0-rc.5",
   "description": "Transform destructuring private proposal",
   "repository": {
     "type": "git",
